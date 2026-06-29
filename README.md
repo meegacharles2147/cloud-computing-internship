@@ -1,30 +1,32 @@
-# Cloud Computing Internship Tasks
+# Task 1 - Cloud Storage Setup
 
-This repository contains the completed work for the Cloud Computing Internship Program.
+## Objective
+Create and configure cloud storage using AWS S3, upload example files, and configure access permissions.
 
-## Tasks Completed
+## Platform Used
+AWS S3
 
-1. Cloud Storage Setup
-2. Cloud Monitoring and Alerts
-3. Multi-Cloud Architecture
-4. Cloud Security Implementation
+## Steps Performed
+1. Logged in to AWS Management Console.
+2. Opened Amazon S3 service.
+3. Created a new bucket named `elite-tech-cloud-storage-yourname`.
+4. Selected the appropriate AWS region.
+5. Enabled bucket versioning.
+6. Kept public access blocked for security.
+7. Uploaded sample files:
+   - `resume.pdf`
+   - `sample-image.jpg`
+   - `notes.txt`
+8. Reviewed bucket permissions and properties.
 
-## Tools/Platforms Used
+## Access Configuration
+- Public access: Blocked
+- Bucket versioning: Enabled
+- Default encryption: Recommended to enable
 
-- AWS S3
-- AWS CloudWatch
-- IAM
-- Google Cloud Platform (for multi-cloud design)
-- GitHub
+## Deliverable
+A configured S3 bucket with uploaded example files and access permissions configured.
 
-## Repository Structure
+## Outcome
+Successfully created and configured cloud storage on AWS S3.
 
-- `task-1-cloud-storage/` - S3 bucket setup and permissions
-- `task-2-monitoring-alerts/` - CloudWatch dashboard and alarm setup
-- `task-3-multi-cloud-architecture/` - Multi-cloud design and interoperability demo
-- `task-4-cloud-security/` - IAM, encryption, and storage security configuration
-- `final-report/` - Internship summary report
-
-## Author
-
-EliteTech Intern
