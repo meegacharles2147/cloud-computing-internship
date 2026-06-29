@@ -1,0 +1,19 @@
+cloud-computing-internship/
+│
+├── README.md
+├── task-1-cloud-storage/
+│   ├── README.md
+│   └── screenshots/
+├── task-2-monitoring-alerts/
+│   ├── README.md
+│   └── screenshots/
+├── task-3-multi-cloud-architecture/
+│   ├── README.md
+│   ├── architecture-diagram.md
+│   └── screenshots/
+├── task-4-cloud-security/
+│   ├── README.md
+│   ├── iam-policy.json
+│   └── screenshots/
+└── final-report/
+    └── internship-report.md
